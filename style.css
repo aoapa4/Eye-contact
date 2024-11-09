@@ -65,7 +65,7 @@ header nav a:hover {
 
 
 /* 홈 css */
-.home-section {
+.index-section {
     /* background-image: url('./home_main_img1.jpg'); */
     background-size: cover;
     background-position: center;
@@ -79,21 +79,21 @@ header nav a:hover {
     position: absolute;
     margin-top: 60px;
 }
-.home-section h1 {
+.index-section h1 {
     font-size: 60px;
     font-weight: bold;
     position: absolute;
     top: 33%;
     left: 5%;
 }
-.home-section p {
+.index-section p {
     font-size: 25px;
     position: absolute;
     top: 45%;
     left: 5%;
 }
 /* 전체 화면 슬라이드 스타일 */
-.home-section {
+.index-section {
     position: absolute;
     top: 0;
     left: 0;
@@ -109,12 +109,12 @@ header nav a:hover {
     text-shadow: 1px 1px 4px rgba(0, 0, 0, 0.7);
     transition: opacity 1s;
 }
-.home-section h1 {
+.index-section h1 {
     font-size: 60px;
     font-weight: bold;
     margin-bottom: 20px;
 }
-.home-section p {
+.index-section p {
     font-size: 25px;
 }
 
